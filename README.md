@@ -1,6 +1,6 @@
 # salesapp
 
-A new Flutter project.
+Insert, Update, Delete and form view add dynamic.
 
 ## Getting Started
 
